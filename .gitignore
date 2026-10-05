@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+models/
+data/
+
+# Trained model files
+*.keras
+*.h5
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
